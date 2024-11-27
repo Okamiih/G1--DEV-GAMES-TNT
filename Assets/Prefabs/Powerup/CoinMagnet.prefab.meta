@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c89761b43b2362418709a8178d5dd8c
+timeCreated: 1448984236
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Powerup/CoinMagnet.prefab
+  uploadId: 518529

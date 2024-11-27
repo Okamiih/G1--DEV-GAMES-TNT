@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a31a8a627e6f7d24aa0af123ce1403c6
+timeCreated: 1465910326
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/TreeBranch.mat
+  uploadId: 518529

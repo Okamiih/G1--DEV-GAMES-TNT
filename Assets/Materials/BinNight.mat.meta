@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f032c1b912f07aa499bc86208c214db8
+timeCreated: 1464167124
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/BinNight.mat
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46caf18aa6a7c1b4f99ae7dea44f7d57
+timeCreated: 1468853296
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/StarParticle.mat
+  uploadId: 518529

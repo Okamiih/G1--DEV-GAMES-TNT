@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8838e486d47d98040adeaa7b200fb07f
+timeCreated: 1465462006
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Magnet.anim
+  uploadId: 518529

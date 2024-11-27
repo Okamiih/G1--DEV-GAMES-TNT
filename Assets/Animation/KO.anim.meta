@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ce4a1fa05befd54f85bfa2e9043bfee
+timeCreated: 1468853510
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/KO.anim
+  uploadId: 518529

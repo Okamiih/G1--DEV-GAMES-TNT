@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85d81c232c824d442b725b70e65aeee5
+timeCreated: 1465567234
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/ManHole.mat
+  uploadId: 518529

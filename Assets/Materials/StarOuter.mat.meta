@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7c53bd5f7e5a31479f9295710f0c921
+timeCreated: 1465567810
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/StarOuter.mat
+  uploadId: 518529

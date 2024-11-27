@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bac864b136a1a145813f5d2a1c17c8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Tutorial/slideAnimationUp.anim
+  uploadId: 518529

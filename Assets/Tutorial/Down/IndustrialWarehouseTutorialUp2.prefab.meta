@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4a6e14a3028d0745b6de33d884bf62a
+timeCreated: 1465571804
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Tutorial/Down/IndustrialWarehouseTutorialUp2.prefab
+  uploadId: 518529

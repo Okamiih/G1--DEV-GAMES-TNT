@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c39a24db89f9b44f8cfbb1ee9d2bcd7
+timeCreated: 1457110892
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Fishbones.anim
+  uploadId: 518529

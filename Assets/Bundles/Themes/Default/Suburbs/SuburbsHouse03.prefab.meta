@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 544006c54b323e9419926850d7e3fbac
+timeCreated: 1465912434
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/Default/Suburbs/SuburbsHouse03.prefab
+  uploadId: 518529

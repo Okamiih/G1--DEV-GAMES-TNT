@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dc97c4ee68c61247bc0dcfb3fa8237e
+timeCreated: 1465575618
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Sky/NightCloud03.prefab
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9b51c81c20d09b49a078e5821bb9d58
+timeCreated: 1463398148
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Obstacles/ObstacleLowBarrier.prefab
+  uploadId: 518529

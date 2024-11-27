@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b87d64eb926fa841a7a41465b9e8b04
+timeCreated: 1463411792
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Obstacles/ObstacleDog.prefab
+  uploadId: 518529

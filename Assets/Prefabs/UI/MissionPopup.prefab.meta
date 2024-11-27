@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a53fe2875371488408daf0df7d69a981
+timeCreated: 1466677771
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/UI/MissionPopup.prefab
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ae64d0eaec8d6f4f9436fce6117048d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Characters/Cat/character.prefab
+  uploadId: 518529

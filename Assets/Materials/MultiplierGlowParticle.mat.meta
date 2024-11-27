@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53703d1e7d47f7a4aa2379d62e3b9ad0
+timeCreated: 1482332350
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/MultiplierGlowParticle.mat
+  uploadId: 518529

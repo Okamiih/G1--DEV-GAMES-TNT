@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2a61585b42736f498a47f62a7424de1
+timeCreated: 1465567248
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Fishbone.mat
+  uploadId: 518529

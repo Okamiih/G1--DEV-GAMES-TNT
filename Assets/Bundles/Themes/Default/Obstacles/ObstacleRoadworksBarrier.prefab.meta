@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82eb370d70e50344cb6eeb919a1429b8
+timeCreated: 1465228061
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/Default/Obstacles/ObstacleRoadworksBarrier.prefab
+  uploadId: 518529

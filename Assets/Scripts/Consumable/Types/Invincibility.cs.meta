@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 56996360c3833804a8891f22514ebfe4
+timeCreated: 1464881792
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Scripts/Consumable/Types/Invincibility.cs
+  uploadId: 518529

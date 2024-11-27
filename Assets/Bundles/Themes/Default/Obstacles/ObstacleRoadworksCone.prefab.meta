@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0070c0f7d7cdcb4eb7176be4a87caa9
+timeCreated: 1465228281
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/Default/Obstacles/ObstacleRoadworksCone.prefab
+  uploadId: 518529

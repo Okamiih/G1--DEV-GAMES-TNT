@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a360c9ac9532bde44ac815403ab03c52
+timeCreated: 1468837475
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/PickupParticle.mat
+  uploadId: 518529

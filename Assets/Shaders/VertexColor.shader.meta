@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d63f5eb2904b2b346afd16ebb961ff06
+timeCreated: 1467728072
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Shaders/VertexColor.shader
+  uploadId: 518529

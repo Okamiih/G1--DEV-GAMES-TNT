@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ed06baf38958d4499069ab23fb82419
+timeCreated: 1468838026
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Particles/FishBoneCollectParticles.prefab
+  uploadId: 518529

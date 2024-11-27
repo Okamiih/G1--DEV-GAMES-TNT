@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 071019c7a516a7748a2dc1448a67242b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/AddressableAssetsData/AssetGroups/Particles.asset
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 634af5e9b95b83f40ab50b103810bb3c
+timeCreated: 1480953989
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/PartyHatAndBowtie.mat
+  uploadId: 518529

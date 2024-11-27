@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f7f815499f6a9845acf83e247f57640
+timeCreated: 1464780457
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Rat.mat
+  uploadId: 518529

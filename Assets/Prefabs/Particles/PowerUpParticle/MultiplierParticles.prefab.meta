@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb8a481413e1e1d43aac95d00d81eea7
+timeCreated: 1483981273
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Particles/PowerUpParticle/MultiplierParticles.prefab
+  uploadId: 518529

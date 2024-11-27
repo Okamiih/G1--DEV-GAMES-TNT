@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9599d0bd4f471d643a454941ba19309b
+timeCreated: 1449843883
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Obstacle.mat
+  uploadId: 518529

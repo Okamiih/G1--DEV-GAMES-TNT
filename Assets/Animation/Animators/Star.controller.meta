@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 676cfaf3229d2eb4089595d485a2f42c
+timeCreated: 1465470809
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Animators/Star.controller
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc9855a6b2a67364ebc0db28e7bbc98b
+timeCreated: 1481024985
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/MusicPlayer.prefab
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac3c86c2382618643bfda6ab3cc81a0b
+timeCreated: 1464943201
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/PremiumCollectible.prefab
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec0335ae7fd65b74898920e51d042abd
+timeCreated: 1463409337
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/Default/Obstacles/ObstacleRat.prefab
+  uploadId: 518529

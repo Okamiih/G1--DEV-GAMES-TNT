@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3c8340d208287eb49a7fbdf4e7d3bfab
+timeCreated: 1466670606
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Scripts/UI/MissionEntry.cs
+  uploadId: 518529

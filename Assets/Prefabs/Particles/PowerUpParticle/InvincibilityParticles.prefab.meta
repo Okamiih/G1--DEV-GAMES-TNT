@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba9ada52ec59a9a419f39eb32bf9a3b0
+timeCreated: 1483981271
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Particles/PowerUpParticle/InvincibilityParticles.prefab
+  uploadId: 518529

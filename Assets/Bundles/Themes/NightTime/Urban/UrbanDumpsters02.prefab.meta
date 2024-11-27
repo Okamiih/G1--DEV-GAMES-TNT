@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7a3bd1684c9dc34895c2b9f97f1aeae
+timeCreated: 1463573203
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Urban/UrbanDumpsters02.prefab
+  uploadId: 518529

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 768aa4549a6e8c940b8e79343e10e88c
+timeCreated: 1471267908
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Scripts/WorldCurver.cs
+  uploadId: 518529

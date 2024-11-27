@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24e342794dd5ea94fa4836beedc3a776
+timeCreated: 1463574344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Urban/UrbanRoadTSection.prefab
+  uploadId: 518529

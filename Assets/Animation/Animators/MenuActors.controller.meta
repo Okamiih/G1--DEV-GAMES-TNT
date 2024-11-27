@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b02c31c22c8c5eb4eae1187ce575f979
+timeCreated: 1471275302
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Animators/MenuActors.controller
+  uploadId: 518529

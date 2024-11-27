@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee7ef3320c6606b4f8856afbdabe7c14
+timeCreated: 1465567236
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/StarInner.mat
+  uploadId: 518529

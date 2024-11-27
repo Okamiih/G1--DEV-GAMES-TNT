@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 968ee66cd79b45a4090925b4d964b490
+timeCreated: 1465479542
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Multiply.anim
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c8b4e674120cad47a3fc249308e5af3
+timeCreated: 1466676417
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/UI/AddMissionButton.prefab
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0fe38f4066e12ac48a6be1778e8a8f3c
+timeCreated: 1468593746
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/WarningLight.mat
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f47ac399c05506b4bbdc47854242e783
+timeCreated: 1463738384
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/StoneWall.mat
+  uploadId: 518529

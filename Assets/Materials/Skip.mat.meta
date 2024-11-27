@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc6dac39dcb64674aab03f9e54dae6f7
+timeCreated: 1465567235
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Skip.mat
+  uploadId: 518529

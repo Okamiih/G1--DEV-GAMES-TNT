@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2fc035de78f1ea43abe0261a378f9fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/AddressableAssetsData/AssetGroups/Schemas/0ee8914add8bf184eb2669a5f9b6f538_ContentUpdateGroupSchema.asset
+  uploadId: 518529

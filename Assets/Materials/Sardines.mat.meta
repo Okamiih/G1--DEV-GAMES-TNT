@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dda22a8f7e415d94c824641953dc38a8
+timeCreated: 1465567235
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Sardines.mat
+  uploadId: 518529

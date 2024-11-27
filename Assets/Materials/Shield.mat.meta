@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b60a839d5016e94184e8ca7757cbe87
+timeCreated: 1481801698
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Shield.mat
+  uploadId: 518529

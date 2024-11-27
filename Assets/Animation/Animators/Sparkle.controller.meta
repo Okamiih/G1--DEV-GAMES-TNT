@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea898411829e377448cd1f8c7f3307d9
+timeCreated: 1465477775
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Animators/Sparkle.controller
+  uploadId: 518529

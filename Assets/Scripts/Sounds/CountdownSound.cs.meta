@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6f9081cdebc0ab340a242bf3bb99d19b
+timeCreated: 1474987581
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Scripts/Sounds/CountdownSound.cs
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22facfbe232a90b45b681c638f2e490d
+timeCreated: 1464186854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/Default/Obstacles/ObstacleBin.prefab
+  uploadId: 518529

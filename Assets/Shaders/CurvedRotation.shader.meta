@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0999d58022e15764c9c7f1db616452d4
+timeCreated: 1463393738
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Shaders/CurvedRotation.shader
+  uploadId: 518529

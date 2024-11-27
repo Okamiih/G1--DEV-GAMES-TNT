@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb0599b183d2df245a26655842165149
+timeCreated: 1458564524
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Explosion.prefab
+  uploadId: 518529

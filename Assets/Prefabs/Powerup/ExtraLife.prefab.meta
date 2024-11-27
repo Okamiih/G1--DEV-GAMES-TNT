@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cccc43bc040988e488680155c25b163c
+timeCreated: 1464941068
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Powerup/ExtraLife.prefab
+  uploadId: 518529

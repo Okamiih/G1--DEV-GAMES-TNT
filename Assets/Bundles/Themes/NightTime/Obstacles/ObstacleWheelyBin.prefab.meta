@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6789d11662a4a2d4b86aac2f6082e0a0
+timeCreated: 1465232141
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Obstacles/ObstacleWheelyBin.prefab
+  uploadId: 518529

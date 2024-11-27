@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f0db6c5e9d5e3e4d9c0f51362e59d00
+timeCreated: 1463574375
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/Default/Urban/UrbanRoadIntersection.prefab
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0300d94f57f56b42bcdc8dd2c4319f8
+timeCreated: 1468581049
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/LightGlow.mat
+  uploadId: 518529

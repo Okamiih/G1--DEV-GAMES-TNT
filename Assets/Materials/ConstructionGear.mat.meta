@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46634ac69176c504294d6187d01ffcba
+timeCreated: 1465567247
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/ConstructionGear.mat
+  uploadId: 518529

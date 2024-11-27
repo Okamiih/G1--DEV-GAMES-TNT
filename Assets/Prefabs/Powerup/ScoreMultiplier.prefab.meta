@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1269ce00623d4694f927c463dd3be44a
+timeCreated: 1452167794
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Powerup/ScoreMultiplier.prefab
+  uploadId: 518529

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4522020fbcc785746b2791879f215e4a
+timeCreated: 1458564102
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/SmokePuff.mat
+  uploadId: 518529

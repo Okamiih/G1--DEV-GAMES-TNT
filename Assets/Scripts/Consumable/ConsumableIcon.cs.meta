@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e3b9a3fbc082b1845b05d3848b9d0c10
+timeCreated: 1448985845
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Scripts/Consumable/ConsumableIcon.cs
+  uploadId: 518529

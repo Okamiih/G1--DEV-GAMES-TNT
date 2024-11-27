@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2c827a9a9fb83b4193c2f8d1d7779d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/AddressableAssetsData/AssetGroups/Duplicate Asset Isolation.asset
+  uploadId: 518529

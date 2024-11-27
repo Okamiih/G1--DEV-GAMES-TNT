@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1ae7832a1f811540a8b9b64dd247ead
+timeCreated: 1465467963
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Animation/Animators/Heart.controller
+  uploadId: 518529

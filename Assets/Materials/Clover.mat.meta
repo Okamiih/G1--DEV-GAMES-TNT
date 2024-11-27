@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 099f8ab5055c38e4fa9b02975140c339
+timeCreated: 1465567238
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Clover.mat
+  uploadId: 518529

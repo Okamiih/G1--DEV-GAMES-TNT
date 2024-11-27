@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee7969661b2b1e94891b8593e383883d
+timeCreated: 1465824304
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Urban/UrbanPlasterWalls03.prefab
+  uploadId: 518529

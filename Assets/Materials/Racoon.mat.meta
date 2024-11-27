@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fefa0546547167848be43384af1c0d43
+timeCreated: 1465570131
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Materials/Racoon.mat
+  uploadId: 518529

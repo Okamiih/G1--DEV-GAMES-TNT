@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f9eed4d340d06141a3c57dc69d8ed2c
+timeCreated: 1465571802
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/NightTime/Industrial/IndustrialWarehouse02.prefab
+  uploadId: 518529

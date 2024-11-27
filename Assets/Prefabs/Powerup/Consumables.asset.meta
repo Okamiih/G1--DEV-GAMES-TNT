@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d316f81231c9964dadda0b50ca7ae6b
+timeCreated: 1449162622
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/Powerup/Consumables.asset
+  uploadId: 518529

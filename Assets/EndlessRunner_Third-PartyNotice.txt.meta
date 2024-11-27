@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a12df369e0d571146987ada119f94ea6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/EndlessRunner_Third-PartyNotice.txt
+  uploadId: 518529

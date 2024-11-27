@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac361d43768a861498da8046b83b94f5
+timeCreated: 1465314403
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Prefabs/UI/Score.prefab
+  uploadId: 518529

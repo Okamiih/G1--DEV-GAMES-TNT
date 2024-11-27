@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dc875dc5de77ff64a99457345f14c040
+timeCreated: 1458562620
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Scripts/Characters/RestartRunning.cs
+  uploadId: 518529

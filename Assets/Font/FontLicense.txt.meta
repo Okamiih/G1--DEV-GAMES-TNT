@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb89e33902259704db92150f0a4ef290
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Font/FontLicense.txt
+  uploadId: 518529

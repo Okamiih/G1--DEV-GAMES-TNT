@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 391abdb78f486ff4abd13845846e0f05
+timeCreated: 1463995996
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Bundles/Themes/Default/Urban/UrbanBuilding02.prefab
+  uploadId: 518529

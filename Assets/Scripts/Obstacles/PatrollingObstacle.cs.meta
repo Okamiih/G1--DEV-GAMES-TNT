@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4667c4f4d7e27554aa443a56067403a9
+timeCreated: 1463407577
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 87901
+  packageName: Endless Runner - Sample Game
+  packageVersion: 1.97.1
+  assetPath: Assets/Scripts/Obstacles/PatrollingObstacle.cs
+  uploadId: 518529
